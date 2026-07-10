@@ -12,7 +12,7 @@ Customer churn is one of the biggest challenges for subscription-based businesse
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Logistic Regression Model
-- Feature Importance Analysis
+- Feature Importance Analysis 
 - Customer Risk Segmentation
 - Interactive Streamlit Prediction App
 - Business Analytics Dashboard
