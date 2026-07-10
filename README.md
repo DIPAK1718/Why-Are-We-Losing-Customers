@@ -16,7 +16,7 @@ Customer churn is one of the biggest challenges for subscription-based businesse
 - Customer Risk Segmentation
 - Interactive Streamlit Prediction App
 - Business Analytics Dashboard
-- SQL Business Analysis
+- SQL Business Analysis 
 - Downloadable Prediction Report
 
 ---
