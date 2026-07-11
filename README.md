@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-Customer churn is one of the biggest challenges for subscription-based businesses. This project predicts whether a customer is likely to leave the company using Machine Learning. It also provides business recommendations and an interactive Streamlit dashboard for decision making.
+Customer churn is one of the biggest challenges for subscription-based businesses. This project predicts whether a customer is likely to leave the company using Machine Learning. It also provides business recommendations and an interactive Streamlit dashboard for decision making. 
 
 ---  
 
